@@ -1,5 +1,5 @@
 .cardRow {
-  display: flex;
-  width: 500px;
+  width: 700px;
   height: 500px;
+  background: #282d49;
 }
